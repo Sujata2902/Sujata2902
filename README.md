@@ -1,110 +1,169 @@
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Sujata Karche
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:13072E,50:5B21B6,100:A855F7&section=header" width="100%" />
 
-### Java Full Stack Developer | Computer Engineering Graduate
+# SUJATA KARCHE
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=23&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=Java+Full+Stack+Developer;Computer+Engineering+Graduate;Building+Practical+Web+Applications;Always+Learning+and+Growing" />
 
-- 🎓 BE in Computer Engineering from SVPM's College of Engineering, Malegaon (BK).
-- 🏆 Graduated in 2026 with an **8.69 CGPA**.
-- 💻 Interested in Java Full Stack Development and building practical applications.
-- 🌱 Exploring Java, JDBC, Servlets, JSP and web development.
-- 📍 Pune, Maharashtra, India.
-- ⚡ In my free time, I enjoy solving programming problems and learning new technologies.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) | [Email](mailto:karchesujata57@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) · [GitHub](https://github.com/Sujata2902) · [Email](mailto:karchesujata57@gmail.com)
 
----
+<br/>
 
-### 🛠️ Languages and Tools:
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse,python&theme=dark" alt="Technical Skills"/>
+![Education](https://img.shields.io/badge/DEGREE-B.E.%20COMPUTER%20ENGINEERING-9333EA?style=flat-square)
+![Graduation](https://img.shields.io/badge/BATCH-2026-7E22CE?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.69%2F10-A855F7?style=flat-square)
 
 </div>
 
-**Java Technologies:** JDBC | Servlets | JSP
+---
+
+## ABOUT ME
+
+Hello! I'm **Sujata Karche**, a Computer Engineering graduate from Savitribai Phule Pune University.
+
+I am passionate about Java Full Stack Development, database management and building practical software applications.
+
+My focus is on strengthening my programming fundamentals, understanding backend development and developing applications that solve real-world problems.
+
+- B.E. in Computer Engineering (2026)
+- CGPA: 8.69/10
+- Java Full Stack Development training at QSpiders, Wakad, Pune
+- Interested in Java, SQL, database management and web technologies
+- Based in Pune, Maharashtra, India
 
 ---
 
-### 💻 My Projects:
+## TECHNICAL SKILLS
 
-**1. 🎓 EduGuide – AI-Based Stream Recommendation and College Prediction System**
+**Programming**
 
-- An AI-based educational guidance system that helps students choose suitable academic streams and colleges.
-- Provides stream recommendations and college predictions based on student information and academic performance.
-- **Technologies:** Python, Flask, HTML, CSS, JavaScript, Bootstrap, MySQL, Machine Learning.
-- **My Role:** Database Management.
+![Java](https://img.shields.io/badge/Java-9333EA?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=flat-square)
 
-**2. 🎬 Movie Recommendation System**
+**Frontend Development**
 
-- A machine learning-based project that recommends movies based on user preferences and movie-related data.
-- **Technologies:** Python, Machine Learning.
+![HTML5](https://img.shields.io/badge/HTML5-9333EA?style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=flat-square)
+
+**Database**
+
+![SQL](https://img.shields.io/badge/SQL-9333EA?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-9333EA?style=flat-square)
+
+**Java Technologies**
+
+![JDBC](https://img.shields.io/badge/JDBC-7E22CE?style=flat-square)
+![Servlets](https://img.shields.io/badge/Servlets-7E22CE?style=flat-square)
+![JSP](https://img.shields.io/badge/JSP-7E22CE?style=flat-square)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-581C87?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-581C87?style=flat-square)
 
 ---
 
-### 🎓 Education & Training:
+## FEATURED PROJECTS
 
-- **B.E. Computer Engineering** – SPPU (2022–2026)
-- **CGPA:** 8.69/10
-- **Java Full Stack Development Training** – QSpiders, Wakad, Pune.
-- **AI Internship** – 1Stop AI / Personify (February–April 2025).
+<details>
+<summary><strong>01. EduGuide – AI-Based Stream Recommendation and College Prediction System</strong></summary>
+
+An educational guidance platform designed to help students make informed academic decisions.
+
+**Key Features**
+- Stream recommendation based on academic performance and student preferences.
+- College prediction based on entrance examination scores and student details.
+- Student dashboard and profile management.
+- Educational guidance and information.
+
+**Technologies:** Flask, HTML, CSS, JavaScript, Bootstrap, MySQL, Machine Learning.
+
+**My Contribution:** Database management and student data organization.
+
+</details>
+
+<details>
+<summary><strong>02. Movie Recommendation System</strong></summary>
+
+A machine learning-based application designed to recommend movies based on user preferences and movie-related information.
+
+**Key Focus**
+- Movie data processing.
+- Recommendation logic.
+- Machine learning concepts.
+- Personalized movie suggestions.
+
+</details>
 
 ---
 
-### 🔥 My Stats:
+## EDUCATION & PROFESSIONAL TRAINING
+
+**Bachelor of Engineering – Computer Engineering**
+
+SVPM's College of Engineering, Malegaon (BK)  
+Savitribai Phule Pune University  
+2022 – 2026 | CGPA: 8.69/10
+
+**Java Full Stack Development Training**
+
+QSpiders, Wakad, Pune
+
+Focused on Java programming, SQL, web development and backend development concepts.
+
+**AI Internship**
+
+1Stop AI / Personify | February 2025 – April 2025
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/Sujata2902">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujata2902&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujata2902&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=none" />
 </a>
 
 <a href="https://github.com/Sujata2902">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata2902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata2902&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 </a>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Sujata2902&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Sujata2902&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
-### 📈 Contribution Activity:
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujata2902&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujata2902&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Activity" />
 
 </div>
 
 ---
 
-### 🤝 Connect with Me:
+## LET'S CONNECT
 
-<div align="left">
-
-<a href="https://www.linkedin.com/in/sujata-karche-3797a7276/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:karchesujata57@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/Sujata2902">
-<img src="https://img.shields.io/badge/GitHub-Sujata2902-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
-
----
+I am interested in connecting with developers, learning from new experiences and exploring opportunities in software development.
 
 <div align="center">
 
-### ✨ "Keep Learning, Keep Building, Keep Growing!" ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge)](https://www.linkedin.com/in/sujata-karche-3797a7276/)
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-9333EA?style=for-the-badge)](mailto:karchesujata57@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-581C87?style=for-the-badge)](https://github.com/Sujata2902)
+
+<br/>
+
+**Keep Learning. Keep Building. Keep Growing.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0: A855F7,50:5B21B6,100:13072E" width="100%" />
 
 </div>
