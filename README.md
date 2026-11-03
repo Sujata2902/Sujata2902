@@ -133,15 +133,7 @@ Focused on Java programming, SQL, web development and backend development concep
 
 ---
 
-## CONTRIBUTION ACTIVITY
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujata2902&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-
-</div>
-
----
 
 ## LET'S CONNECT
 
