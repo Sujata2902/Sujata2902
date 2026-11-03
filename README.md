@@ -147,13 +147,21 @@ Focused on Java programming, SQL, web development and backend development concep
 
 I am interested in connecting with developers, learning from new experiences and exploring opportunities in software development.
 
-<div align="center">
+<div align="left">
 
-<button > LinkedIn</button>
+<a href="https://www.linkedin.com/in/sujata-karche-3797a7276/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-![LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) | [GitHub](https://github.com/Sujata2902) | [Email](mailto:karchesujata57@gmail.com)
+<a href="mailto:karchesujata57@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-<br/>
+<a href="https://github.com/Sujata2902">
+<img src="https://img.shields.io/badge/GitHub-Sujata2902-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 **Keep Learning. Keep Building. Keep Growing.**
 
