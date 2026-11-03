@@ -12,7 +12,7 @@
 
 ![Education](https://img.shields.io/badge/B.E.%20COMPUTER%20ENGINEERING-9333EA?style=flat-square)
 ![Graduation](https://img.shields.io/badge/2026-7E22CE?style=flat-square)
-![CGPA](https://img.shields.io/badge/CGPA-8.69%2F10-A855F7?style=flat-square)
+![CGPA](https://img.shields.io/badge/CGPA-8.69%2F-A855F7?style=flat-square)
 
 </div>
 
@@ -38,29 +38,25 @@ My focus is on strengthening my programming fundamentals, understanding backend 
 
 **Programming**
 
-Java
-JavaScript
+Java | JavaScript
 
 **Frontend Development**
 
-HTML5
-CSS3
+HTML5 | CSS3
 
 **Database**
 
-SQL
-MySQL
+SQL | MySQL
 
 **Java Technologies**
 
-JDBC
-Servlets
-JSP
+JDBC | Servlets | JSP
+
 
 **Tools**
 
-Git
-GitHub
+Git | Github 
+
 ---
 
 ## FEATURED PROJECTS
@@ -153,8 +149,9 @@ I am interested in connecting with developers, learning from new experiences and
 
 <div align="center">
 
-[LinkedIn](https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge)](https://www.linkedin.com/in/sujata-karche-3797a7276/) [Email](https://img.shields.io/badge/Email%20Me-9333EA?style=for-the-badge)](mailto:karchesujata57@gmail.com)
-[GitHub](https://img.shields.io/badge/GitHub%20Profile-581C87?style=for-the-badge)](https://github.com/Sujata2902)
+<button > LinkedIn</button>
+
+![LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) | [GitHub](https://github.com/Sujata2902) | [Email](mailto:karchesujata57@gmail.com)
 
 <br/>
 
