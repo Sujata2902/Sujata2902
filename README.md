@@ -53,36 +53,6 @@
 
 ---
 
-### My Stats:
-
-<div align="center">
-
-<a href="https://github.com/Sujata2902">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sujata2902&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Sujata2902">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata2902&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Sujata2902&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-### Contribution Activity:
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sujata2902&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
 ### Connect with Me:
 
 <div align="left">
