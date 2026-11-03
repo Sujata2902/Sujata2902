@@ -117,17 +117,17 @@ Focused on Java programming, SQL, web development and backend development concep
 
 <div align="center">
 
-<a href="https://github.com/Sujata2902">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sujata2902&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=none" />
-</a>
+### GitHub Statistics
 
-<a href="https://github.com/Sujata2902">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata2902&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sujata2902&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=none" alt="GitHub Statistics"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujata2902&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Sujata2902&theme=midnight-purple&hide_border=true" />
+### Contribution Streak
+
+<img width="75%" src="https://streak-stats.demolab.com?user=Sujata2902&theme=midnight-purple&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
