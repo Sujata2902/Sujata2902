@@ -88,7 +88,7 @@
 <div align="left">
 
 <a href="https://www.linkedin.com/in/sujata-karche-3797a7276/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:karchesujata57@gmail.com">
