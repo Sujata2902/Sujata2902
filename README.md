@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=23&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=650&height=45&lines=Java+Full+Stack+Developer;Computer+Engineering+Graduate;Building+Practical+Web+Applications;Always+Learning+and+Growing" />
 
-[LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) · [GitHub](https://github.com/Sujata2902) · [Email](mailto:karchesujata57@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sujata-karche-3797a7276/) | [GitHub](https://github.com/Sujata2902) | [Email](mailto:karchesujata57@gmail.com)
 
 <br/>
 
-![Education](https://img.shields.io/badge/DEGREE-B.E.%20COMPUTER%20ENGINEERING-9333EA?style=flat-square)
-![Graduation](https://img.shields.io/badge/BATCH-2026-7E22CE?style=flat-square)
+![Education](https://img.shields.io/badge/B.E.%20COMPUTER%20ENGINEERING-9333EA?style=flat-square)
+![Graduation](https://img.shields.io/badge/2026-7E22CE?style=flat-square)
 ![CGPA](https://img.shields.io/badge/CGPA-8.69%2F10-A855F7?style=flat-square)
 
 </div>
@@ -38,36 +38,35 @@ My focus is on strengthening my programming fundamentals, understanding backend 
 
 **Programming**
 
-![Java](https://img.shields.io/badge/Java-9333EA?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-9333EA?style=flat-square)
+Java
+JavaScript
 
 **Frontend Development**
 
-![HTML5](https://img.shields.io/badge/HTML5-9333EA?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-9333EA?style=flat-square)
+HTML5
+CSS3
 
 **Database**
 
-![SQL](https://img.shields.io/badge/SQL-9333EA?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-9333EA?style=flat-square)
+SQL
+MySQL
 
 **Java Technologies**
 
-![JDBC](https://img.shields.io/badge/JDBC-7E22CE?style=flat-square)
-![Servlets](https://img.shields.io/badge/Servlets-7E22CE?style=flat-square)
-![JSP](https://img.shields.io/badge/JSP-7E22CE?style=flat-square)
+JDBC
+Servlets
+JSP
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-581C87?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-581C87?style=flat-square)
-
+Git
+GitHub
 ---
 
 ## FEATURED PROJECTS
 
 <details>
-<summary><strong>01. EduGuide – AI-Based Stream Recommendation and College Prediction System</strong></summary>
+<summary><strong> EduGuide – AI-Based Stream Recommendation and College Prediction System</strong></summary>
 
 An educational guidance platform designed to help students make informed academic decisions.
 
@@ -84,7 +83,7 @@ An educational guidance platform designed to help students make informed academi
 </details>
 
 <details>
-<summary><strong>02. Movie Recommendation System</strong></summary>
+<summary><strong> Movie Recommendation System</strong></summary>
 
 A machine learning-based application designed to recommend movies based on user preferences and movie-related information.
 
@@ -154,11 +153,8 @@ I am interested in connecting with developers, learning from new experiences and
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7E22CE?style=for-the-badge)](https://www.linkedin.com/in/sujata-karche-3797a7276/)
-
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-9333EA?style=for-the-badge)](mailto:karchesujata57@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Visit%20Profile-581C87?style=for-the-badge)](https://github.com/Sujata2902)
+[LinkedIn](https://img.shields.io/badge/LinkedIn-7E22CE?style=for-the-badge)](https://www.linkedin.com/in/sujata-karche-3797a7276/) [Email](https://img.shields.io/badge/Email%20Me-9333EA?style=for-the-badge)](mailto:karchesujata57@gmail.com)
+[GitHub](https://img.shields.io/badge/GitHub%20Profile-581C87?style=for-the-badge)](https://github.com/Sujata2902)
 
 <br/>
 
