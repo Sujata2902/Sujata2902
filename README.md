@@ -20,7 +20,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse,python&theme=dark" alt="Technical Skills"/>
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode,eclipse&theme=dark" alt="Technical Skills"/>
 
 </div>
 
