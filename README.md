@@ -162,5 +162,4 @@ I am interested in connecting with developers, learning from new experiences and
 **Keep Learning. Keep Building. Keep Growing.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0: A855F7,50:5B21B6,100:13072E" width="100%" />
-
 </div>
